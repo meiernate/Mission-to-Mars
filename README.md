@@ -9,32 +9,25 @@ The request is to scrape, organize, analyze, and visualize the data. The focus i
 ## Results
 The data was analyzed to answer the following questions:
 
-Q.  How many months exist on Mars?
+1.  How many months exist on Mars?
+    *  Mars has 12 months.
 
-A.  Mars has 12 months.
+2.  How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+    *  There is 1867 Martian Days worth of data.
 
-Q.  How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+3.  What are the coldest and the warmest months on Mars?
+    * The coldest was month number 3, with an average of -83 celsius. 
+    * The warmest was month number 8, with an average of -68 celsius.
 
-A.  There is 1867 Martian Days worth of data.
+      ![Mars_Avg_Temperature](Analysis/Mars_Avg_Temperature.png)
 
-Q.  What are the coldest and the warmest months on Mars?
+4.  Which months have the lowest and the highest atmospheric pressure on Mars?
+    * The lowest atmospheric pressure was in month number 6, with an average of 745. 
+    * The highest atmospheric pressure was in month number 9, with an average of 913.
 
-A1. The coldest was month number 3, with an average of -83 celsius. 
+      ![Mars_Avg_Pressure](Analysis/Mars_Avg_Pressure.png)
 
-A2. The warmest was month number 8, with an average of -68 celsius.
+5.  About how many terrestrial (Earth) days exist in a Martian year? 
+    *  One year on mars is approximately 685 days on earth.
 
-![Mars_Avg_Temperature](Analysis/Mars_Avg_Temperature.png)
-
-Q.  Which months have the lowest and the highest atmospheric pressure on Mars?
-
-A2. The lowest atmospheric pressure was in month number 6, with an average of 745. 
-
-A2. The highest atmospheric pressure was in month number 9, with an average of 913.
-
-![Mars_Avg_Pressure](Analysis/Mars_Avg_Pressure.png)
-
-Q.  About how many terrestrial (Earth) days exist in a Martian year? 
-
-A.  One year on mars is approximately 685 days on earth.
-
-![Temperature_Timeline](Analysis/Temperature_Timeline.png)
+        ![Temperature_Timeline](Analysis/Temperature_Timeline.png)
